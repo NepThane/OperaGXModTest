@@ -2,10 +2,10 @@
     "manifest_version": 3,
     "name": "Choose your Deity",
     "description": "Fooling around, I don't own the icon nor the music.",
-    "version": "1.1",
+    "version": "1.0",
     "icons":
     {
-        "512": "thewanderer.png"
+        "512": "icon_512.png"
     },
     "developer":
     {
