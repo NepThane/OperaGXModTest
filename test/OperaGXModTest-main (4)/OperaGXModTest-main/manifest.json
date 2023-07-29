@@ -1,0 +1,25 @@
+{
+    "name": "Choose your Deity",
+    "manifest_version": 3,
+    "description": "Fooling around, I don't own the icon nor the music. Music belongs to Cruzur on YouTube and the Icon belongs to @KadaburaDraws on Twitter",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "developer":
+    {
+        "name": "NepThane"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "background_music":
+            [
+                "music/videoplayback (4).mp3"
+            ]
+        }
+    }
+}
